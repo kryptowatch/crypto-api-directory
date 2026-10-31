@@ -64,3 +64,8 @@ Open a pull request with the provider's official docs, relevant product/API name
 ---
 
 For developer reference only; not financial, legal, or security advice.
+
+
+## Explore on Krypto.Watch
+
+Visit the live [crypto developer and API resources](https://krypto.watch/developers) on [Krypto.Watch](https://krypto.watch/).
